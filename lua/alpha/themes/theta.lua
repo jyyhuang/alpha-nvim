@@ -212,6 +212,7 @@ return {
     header = header,
     buttons = buttons,
     section_mru = section_mru,
+    mru = mru,
     config = config,
     -- theme specific config
     mru_opts = mru_opts,
